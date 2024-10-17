@@ -49,7 +49,7 @@ O sistema conta com 4 formas de pagamentos, sendo 3 delas automáticas:</span>
 <span style="color:#000000;">Outra ferramenta muito interessante é o sistema de templates, com ele você pode rodar qualquer site de lineage 2 dentro do sistema ICPNetworks V4. Você se lembra daquele site antiiiiigo que você sempre quis recolocar online e ele está com a programação desatualizada/insegura? Agora você pode colocar ele online novamente com o sistema ICPNetworks V4! Alem disso, qualquer pessoa poderá adicionar ou editar qualquer template de forma simples e fácil, sabendo apenas o basico de HTML, CSS e JavaScript. VOCÊ NÃO PRECISA SABER PROGRAMAÇÂO!!!</span>
 </p>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:50px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:50px;">
  
 </div>
 <h1>
@@ -157,7 +157,7 @@ O sistema foi testado nas seguintes crônicas e projetos:</span>
 </li>
 </ul>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:50px; margin-bottom:32px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:50px; margin-bottom:32px;">
  
 </div>
 <h1 style="margin-bottom:0px;">
@@ -189,7 +189,7 @@ https://youtu.be/CJ6iHi-nAn4
 https://youtu.be/50cxc6yAEZY
 </div>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:30px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:30px;">
  
 </div>
 <h1>
@@ -237,7 +237,7 @@ https://youtu.be/50cxc6yAEZY
 </p>
 </div>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:30px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:30px;">
  
 </div>
 <h1>
@@ -268,7 +268,7 @@ Criar o sistema de VIP
 </li>
 </ul>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:40px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:40px;">
  
 </div>
 <h1>
@@ -294,7 +294,7 @@ Criar o sistema de VIP
 <span style="color:#000000;">Um forte abraço a todos os membros da L2jBrasil e até a próxima!</span>
 </p>
 </div>
-<div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:40px;">
+<div style="background-image:url('https://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:40px;">
  
 </div>
 <div style="background: rgba(255,255,255,0.1); padding:10px 20px; margin-bottom: 30px; border:1px solid #dedede; border-radius: 10px; box-shadow: 0 0 1em #dedede; display:flex; flex-wrap:wrap;">
