@@ -168,25 +168,25 @@ O sistema foi testado nas seguintes crônicas e projetos:</span>
 <h2 style="text-align:center;">
 <span style="color:#000000;">Instalação</span>
 </h2>
-<span style="color:#000000;"><iframe allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" id="ips_uid_7090_4" src="https://www.l2jbrasil.com/applications/core/interface/index.html" style="width:100%; height: 30vh; border:5px solid #ddd; border-radius: 10px; background-color:#000;" title="YouTube video player" data-embed-src="https://www.youtube.com/embed/qkQOUJj0DFk"></iframe></span>
+https://youtu.be/qkQOUJj0DFk
 </div>
 <div style="flex:1; min-width:260px; padding:2%; padding-top:0%; margin-top:20px; background: rgba(255,255,255,0.1); border:1px solid #dedede; border-radius: 10px; box-shadow: 0 0 1em #dedede; margin-left:0.5%; margin-right:0.5%;">
 <h2 style="text-align:center;">
 <span style="color:#000000;">Configuração</span>
 </h2>
-<span style="color:#000000;"><iframe allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" id="ips_uid_7090_4" src="https://www.l2jbrasil.com/applications/core/interface/index.html" style="width:100%; height: 30vh; border:5px solid #ddd; border-radius: 10px; background-color:#000;" title="YouTube video player" data-embed-src="https://www.youtube.com/embed/mABCQG43U2o"></iframe></span>
+https://youtu.be/mABCQG43U2o
 </div>
 <div style="flex:1; min-width:260px; padding:2%; padding-top:0%; margin-top:20px; background: rgba(255,255,255,0.1); border:1px solid #dedede; border-radius: 10px; box-shadow: 0 0 1em #dedede; margin-left:0.5%; margin-right:0.5%;">
 <h2 style="text-align:center;">
 <span style="color:#000000;">Apresentação</span>
 </h2>
-<span style="color:#000000;"><iframe allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" id="ips_uid_7090_4" src="https://www.l2jbrasil.com/applications/core/interface/index.html" style="width:100%; height: 30vh; border:5px solid #ddd; border-radius: 10px; background-color:#000;" title="YouTube video player" data-embed-src="https://www.youtube.com/embed/CJ6iHi-nAn4"></iframe></span>
+https://youtu.be/CJ6iHi-nAn4
 </div>
 <div style="flex:1; min-width:260px; padding:2%; padding-top:0%; margin-top:20px; background: rgba(255,255,255,0.1); border:1px solid #dedede; border-radius: 10px; box-shadow: 0 0 1em #dedede; margin-left:0.5%;">
 <h2 style="text-align:center;">
 <span style="color:#000000;">Templates</span>
 </h2>
-<span style="color:#000000;"><iframe allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" id="ips_uid_7090_4" src="https://www.l2jbrasil.com/applications/core/interface/index.html" style="width:100%; height: 30vh; border:5px solid #ddd; border-radius: 10px; background-color:#000;" title="YouTube video player" data-embed-src="https://www.youtube.com/embed/50cxc6yAEZY"></iframe></span>
+https://youtu.be/50cxc6yAEZY
 </div>
 </div>
 <div style="background-image:url('http://icp.l2jcenter.com/icpnetworks.com.br/icp_imgs/separador.png'); background-position: top center; background-repeat:no-repeat; height:32px; margin-top:40px; margin-bottom:30px;">
@@ -230,7 +230,7 @@ O sistema foi testado nas seguintes crônicas e projetos:</span>
 <span style="color:#000000;">Download</span>
 </h2>
 <p style="text-align: center;">
-<a href="https://mega.nz/file/Vkl03ZrA#I9lvQ8SyRcqPIqlAbDqUO7lkpqhBqecDimAbHQ4fhxY" rel="external nofollow" target="_blank"><span style="color:#000000;"><img alt="download.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4755" data-ratio="36.45" data-unique="p6yuf6n46" style="height: auto;" width="310" data-src="https://storage.l2jbrasil.com/monthly_2021_07/download.png.ff4e9bea01a3305f10c4b207f9182db2.png" src="https://www.l2jbrasil.com/applications/core/interface/js/spacer.png"></span></a>
+<a href="https://mega.nz/file/Vkl03ZrA#I9lvQ8SyRcqPIqlAbDqUO7lkpqhBqecDimAbHQ4fhxY" rel="external nofollow" target="_blank"><span style="color:#000000;"><img alt="download.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4755" data-ratio="36.45" data-unique="p6yuf6n46" style="height: auto;" width="310" data-src="https://storage.l2jbrasil.com/monthly_2021_07/download.png.ff4e9bea01a3305f10c4b207f9182db2.png" src="https://storage.l2jbrasil.com/monthly_2021_07/download.png.ff4e9bea01a3305f10c4b207f9182db2.png"></span></a>
 </p>
 <p style="text-align: center; margin-top:-30px;">
 <span style="color:#000000;"><strong>Senha:</strong> ByIvanPires</span>
@@ -300,16 +300,16 @@ Criar o sistema de VIP
 <div style="background: rgba(255,255,255,0.1); padding:10px 20px; margin-bottom: 30px; border:1px solid #dedede; border-radius: 10px; box-shadow: 0 0 1em #dedede; display:flex; flex-wrap:wrap;">
 <div style="flex:1; min-width:173px; padding:0px 2%;">
 <p style="text-align: center;">
-<img alt="l2jbrasil.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4759" data-ratio="66.08" data-unique="to68iwa8m" style="height: auto; width:100%; max-width:227px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/l2jbrasil.png.3d83d10fd6da77bc4cd81cfd329a1c1c.png" src="https://www.l2jbrasil.com/applications/core/interface/js/spacer.png">
+<img alt="l2jbrasil.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4759" data-ratio="66.08" data-unique="to68iwa8m" style="height: auto; width:100%; max-width:227px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/l2jbrasil.png.3d83d10fd6da77bc4cd81cfd329a1c1c.png" src="https://storage.l2jbrasil.com/monthly_2021_07/l2jbrasil.png.3d83d10fd6da77bc4cd81cfd329a1c1c.png">
 </p>
 </div>
 <div style="flex:1; min-width:174px; padding:0px 2%;">
 <p style="text-align: center;">
-<img alt="l2jcenter.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4765" data-ratio="53.53" data-unique="4tedvga01" style="height: auto; width:100%; max-width:269px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/l2jcenter.png.65c35e13a94699583060f399f13548ce.png" src="https://www.l2jbrasil.com/applications/core/interface/js/spacer.png">
+<img alt="l2jcenter.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4765" data-ratio="53.53" data-unique="4tedvga01" style="height: auto; width:100%; max-width:269px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/l2jcenter.png.65c35e13a94699583060f399f13548ce.png" src="https://storage.l2jbrasil.com/monthly_2021_07/l2jcenter.png.65c35e13a94699583060f399f13548ce.png">
 </p>
 </div>
 <div style="flex:1; min-width:173px; padding:0px 2%;">
 <p style="text-align: center;">
-<img alt="logo_menor2_icp_novo.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4758" data-ratio="50.00" data-unique="qcaqvw5kp" style="height: auto; width:100%; max-width:300px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/logo_menor2_icp_novo.png.0fb6dfee11c433ecee775df9fa56900c.png" src="https://www.l2jbrasil.com/applications/core/interface/js/spacer.png">
+<img alt="logo_menor2_icp_novo.png" class="ipsImage ipsImage_thumbnailed" data-fileid="4758" data-ratio="50.00" data-unique="qcaqvw5kp" style="height: auto; width:100%; max-width:300px;" data-src="https://storage.l2jbrasil.com/monthly_2021_07/logo_menor2_icp_novo.png.0fb6dfee11c433ecee775df9fa56900c.png" src="https://storage.l2jbrasil.com/monthly_2021_07/logo_menor2_icp_novo.png.0fb6dfee11c433ecee775df9fa56900c.png">
 </p>
 </div>
